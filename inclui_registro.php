@@ -31,7 +31,9 @@ function verifica_senha(){
 
 </script>
 <body>
-    <div class="container d-flex justify-content-center align-items-center">
+
+<main>
+    <div class="container d-flex justify-content-center align-items-center" >
    
         <div class="card p-4">           
         <a href="inicio.php"><button class="btn btn-primary btn-block" id="btn_voltar">Voltar</button></a>
@@ -65,6 +67,8 @@ function verifica_senha(){
             </form>
         </div>
     </div>
+
+</main>
 
     <style>
 

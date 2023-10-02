@@ -40,7 +40,7 @@ include 'connection.php';
 <!-- CONTEUDO PRINCIPAL -->
 <main>
 
-    <div id="conteudo" style="height: 100%"></div>
+    <div id="conteudo" style="height: 100vh"></div>
 
 </main>
 
